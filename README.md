@@ -1,7 +1,7 @@
 TODO App
 
 
-![Landing page](https://github.com/LuisTheDeveloper/JS-Lab3-TodoApp-ClientSide/tree/master/img/LandingPage.JPG)
+![Landing page](https://github.com/LuisTheDeveloper/JS-Lab3-TodoApp-ClientSide/tree/master/src/img/LandingPage.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
